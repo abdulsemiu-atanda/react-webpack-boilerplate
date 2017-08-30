@@ -1,5 +1,5 @@
 {
-  "name": "genesis",
+  "name": "React-Webpack-Boilerplate",
   "version": "1.0.0",
   "description": "boilerplate for react applications using webpack",
   "main": "index.js",
@@ -10,7 +10,8 @@
   },
   "keywords": [
     "boilerplate",
-    "react"
+    "react",
+    "webpack"
   ],
   "author": "Abdulsemiu Atanda",
   "license": "MIT",
